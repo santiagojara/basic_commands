@@ -1,0 +1,4 @@
+serial.txt
+*.err
+*.log
+*.class
